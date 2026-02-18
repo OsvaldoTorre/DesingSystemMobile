@@ -36,11 +36,9 @@ Este repositorio funciona como la base fundamental para el diseño de tus aplica
 
 ## 🖥️ Capturas de Pantalla
 
-*(Aquí puedes agregar algunas imágenes de tu aplicación de ejemplo o de los componentes más importantes)*
-
 | Pantalla de Inicio | Componentes | Temas |
 | :---: | :---: | :---: |
-| `[Agrega aquí una URL de imagen]` | `[Agrega aquí una URL de imagen]` | `[Agrega aquí una URL de imagen]` |
+| `[Coming soon]` | `[Coming soon]` | `[Coming soon]` |
 
 ## 🛠️ Stack Tecnológico
 
