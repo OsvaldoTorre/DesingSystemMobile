@@ -7,11 +7,11 @@ class CpText extends StatelessWidget {
   // Parametros opcionales
   final Color color;
   final TextStyle style;
-  final FontWeight fontWeightBold;
-  final FontStyle fontStyleItalic;
-  final TextDecoration textDecoration;
-  final Color decorationColor;
-  final double decorationThickness;
+  final FontWeight textBold;
+  final FontStyle textItalic;
+  final TextDecoration typeLine;
+  final Color lineColor;
+  final double lineSize;
   final EdgeInsetsGeometry padding;
 
   const CpText(
@@ -19,11 +19,11 @@ class CpText extends StatelessWidget {
     this.color = ColorsDS.dark,
     this.style = TypographyDS.body,
     this.padding = const EdgeInsetsGeometry.all(0),
-    this.textDecoration = TextDecoration.none,
-    this.decorationColor = ColorsDS.dark,
-    this.decorationThickness = 1,
-    this.fontWeightBold = FontWeight.normal,
-    this.fontStyleItalic = FontStyle.normal,
+    this.typeLine = TextDecoration.none,
+    this.lineColor = ColorsDS.dark,
+    this.lineSize = 1,
+    this.textBold = FontWeight.normal,
+    this.textItalic = FontStyle.normal,
 
     super.key,
   });
@@ -40,11 +40,11 @@ class CpText extends StatelessWidget {
         texto,
         style: style.copyWith(
           color: colorLocal,
-          fontWeight: fontWeightBold,
-          fontStyle: fontStyleItalic,
-          decoration: textDecoration,
-          decorationColor: decorationColor,
-          decorationThickness: decorationThickness,
+          fontWeight: textBold,
+          fontStyle: textItalic,
+          decoration: typeLine,
+          decorationColor: lineColor,
+          decorationThickness: lineSize,
         ),
       ),
     );
