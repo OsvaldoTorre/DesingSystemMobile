@@ -1,24 +1,18 @@
-# ✨ DesignSystemFlutter
+# 🎨 DesignSystemFlutter
 
 <div align="center">
 
+**Un sistema de diseño integral y multiplataforma construido con Flutter, que proporciona una experiencia consistente y atractiva en dispositivos móviles, web y escritorio.**
+
 <!-- TODO: Add project logo (e.g., a stylized Flutter icon or custom logo) -->
 
-[![GitHub stars](https://img.shields.io/github/stars/OsvaldoTorre/DesingSystemMobile?style=for-the-badge)](https://github.com/OsvaldoTorre/DesingSystemMobile/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/OsvaldoTorre/DesingSystemMobile?style=for-the-badge)](https://github.com/OsvaldoTorre/DesingSystemMobile/network)
-[![GitHub issues](https://img.shields.io/github/issues/OsvaldoTorre/DesingSystemMobile?style=for-the-badge)](https://github.com/OsvaldoTorre/DesingSystemMobile/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE) <!-- TODO: Verify actual license and update -->
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)](https://flutter.dev)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
-¡Hola! He revisado el enlace de tu proyecto en GitHub. Con gusto te ayudo a crear un README.md completo y en español para **DesignSystemFlutter**.
+[![GitHub stars](https://img.shields.io/github/stars/OsvaldoTorre/DesingSystemFlutter?style=for-the-badge)](https://github.com/OsvaldoTorre/DesingSystemFlutter/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OsvaldoTorre/DesingSystemFlutter?style=for-the-badge)](https://github.com/OsvaldoTorre/DesingSystemFlutter/network)
+[![GitHub issues](https://img.shields.io/github/issues/OsvaldoTorre/DesingSystemFlutter?style=for-the-badge)](https://github.com/OsvaldoTorre/DesingSystemFlutter/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
+<!-- TODO: Verify actual license and update -->
 
-He analizado la estructura actual de tu repositorio, el README existente (que tiene algunas inconsistencias de nombres) y los archivos. A continuación, te presento una versión mejorada y adaptada que puedes copiar y pegar directamente en tu proyecto.
-
----
-
-# 🎨 DesignSystemFlutter
-
-**Un sistema de diseño integral y multiplataforma construido con Flutter, que proporciona una experiencia consistente y atractiva en dispositivos móviles, web y escritorio.**
+</div>
 
 ---
 
@@ -27,9 +21,9 @@ He analizado la estructura actual de tu repositorio, el README existente (que ti
 **DesignSystemFlutter** es un kit de herramientas de interfaz de usuario (UI) robusto y flexible, desarrollado con Flutter. Su objetivo es establecer un lenguaje visual y una experiencia de usuario unificada en múltiples plataformas.
 
 Este repositorio funciona como la base fundamental para el diseño de tus aplicaciones, ofreciendo una colección de componentes de UI reutilizables y altamente personalizables. Al integrar este sistema, podrás:
-*   **Acelerar el desarrollo:** Olvídate de construir los mismos componentes desde cero en cada proyecto.
-*   **Mantener la consistencia:** Asegura que todas tus aplicaciones compartan la misma identidad de marca y comportamientos visuales.
-*   **Mejorar la calidad:** Utiliza componentes probados y optimizados para ofrecer una interfaz pulida y profesional en **Android, iOS, Web, Windows, macOS y Linux**.
+*   🚀 **Acelerar el desarrollo:** Olvídate de construir los mismos componentes desde cero en cada proyecto.
+*   🎯 **Mantener la consistencia:** Asegura que todas tus aplicaciones compartan la misma identidad de marca y comportamientos visuales.
+*   ✨ **Mejorar la calidad:** Utiliza componentes probados y optimizados para ofrecer una interfaz pulida y profesional en **Android, iOS, Web, Windows, macOS y Linux**.
 
 ## ✨ Características Principales
 
@@ -50,12 +44,27 @@ Este repositorio funciona como la base fundamental para el diseño de tus aplica
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
+
+</div>
+
 *   **Framework Principal:** [Flutter](https://flutter.dev) (SDK 3.x o superior)
 *   **Lenguaje:** [Dart](https://dart.dev)
 *   **Plataformas Soportadas:**
-    *   Móvil: Android, iOS
-    *   Web: Todos los navegadores modernos
-    *   Escritorio: Windows, macOS, Linux
+
+<div align="center">
+
+**Móvil** | **Web** | **Escritorio**
+:---: | :---: | :---:
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com) | [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome) | [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios) | [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox) | [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
+| | [![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.apple.com/safari) | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+| | [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/edge) |
+
+</div>
 
 ## 🚀 Inicio Rápido
 
@@ -226,8 +235,14 @@ Este proyecto está bajo la licencia **MIT**. Esto significa que puedes usarlo, 
 *   **Reportar un problema:** Si encuentras un error o tienes una sugerencia, por favor, abre un [Issue en GitHub](https://github.com/OsvaldoTorre/DesingSystemFlutter/issues). ¡Tu feedback es muy valioso!
 
 ---
+<div align="center">
+  
 
-**⭐ ¡Si este proyecto te resulta útil, no olvides darle una estrella en GitHub! ⭐**
 
-Hecho con ❤️ por [OsvaldoTorre](https://github.com/OsvaldoTorre)
+**⭐ ¿Te gusta el proyecto? ¡No olvides darle una estrella! ⭐**
+
+
+**Hecho con ❤️ por [OsvaldoTorre](https://github.com/OsvaldoTorre)**
+
+</div>
 </div>
