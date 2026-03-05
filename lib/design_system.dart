@@ -18,14 +18,14 @@ export 'package:design_system_mobile/designSystem/tokens/borders.dart';
 export 'config/theme/app_theme.dart';
 
 // ─── Layout ──────────────────────────────────────────────────────────────────
-export 'package:design_system_mobile/designSystem/components/cp_grid.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_grid.dart';
 
 // ─── Components ──────────────────────────────────────────────────────────────
-export 'package:design_system_mobile/designSystem/components/cp_text.dart';
-export 'package:design_system_mobile/designSystem/components/cp_paragraph.dart';
-export 'package:design_system_mobile/designSystem/components/cp_text_paragraph.dart';
-export 'package:design_system_mobile/designSystem/components/cp_blockquote.dart';
-export 'package:design_system_mobile/designSystem/components/cp_button.dart';
-export 'package:design_system_mobile/designSystem/components/cp_card.dart';
-export 'package:design_system_mobile/designSystem/components/cp_input.dart';
-export 'package:design_system_mobile/designSystem/components/cp_badge_alert.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_text.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_paragraph.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_text_paragraph.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_blockquote.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_button.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_card.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_input.dart';
+export 'package:design_system_mobile/designSystem/componets/cp_badge_alert.dart';
